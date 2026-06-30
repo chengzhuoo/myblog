@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>如何利用hexo+next+github快速搭建个人blog</title>
+    <url>/myblog/2026/06/30/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8hexo-next-github%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BAblog/</url>
+    <content><![CDATA[<h1 id="1-安装-Git-版本管理工具"><a href="#1-安装-Git-版本管理工具" class="headerlink" title="1. 安装 Git (版本管理工具)"></a>1. 安装 Git (版本管理工具)</h1><h2 id="Git是用于将你电脑上的博客内容上传到GitHub的工具"><a href="#Git是用于将你电脑上的博客内容上传到GitHub的工具" class="headerlink" title="Git是用于将你电脑上的博客内容上传到GitHub的工具"></a>Git是用于将你电脑上的博客内容上传到GitHub的工具</h2><h2 id="下载安装：访问-Git官网，下载适合你操作系统的版本"><a href="#下载安装：访问-Git官网，下载适合你操作系统的版本" class="headerlink" title="下载安装：访问 Git官网，下载适合你操作系统的版本"></a>下载安装：访问 Git官网，下载适合你操作系统的版本</h2><h2 id="安装完成后，在桌面空白处右键，选择-“Git-Bash-Here”-Windows-或打开-“终端”-Terminal，macOS-，输入以下命令并回车："><a href="#安装完成后，在桌面空白处右键，选择-“Git-Bash-Here”-Windows-或打开-“终端”-Terminal，macOS-，输入以下命令并回车：" class="headerlink" title="安装完成后，在桌面空白处右键，选择 “Git Bash Here” (Windows) 或打开 “终端” (Terminal，macOS)，输入以下命令并回车："></a>安装完成后，在桌面空白处右键，选择 “Git Bash Here” (Windows) 或打开 “终端” (Terminal，macOS)，输入以下命令并回车：</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/myblog/2026/06/30/Hello-World/</url>
+    <content><![CDATA[<h1 id="一起开始我们的学术探索之路吧！"><a href="#一起开始我们的学术探索之路吧！" class="headerlink" title="一起开始我们的学术探索之路吧！"></a>一起开始我们的学术探索之路吧！</h1><img src="/myblog/2026/06/30/Hello-World/1.jpg" class="" title="我的头像">]]></content>
+  </entry>
+</search>
